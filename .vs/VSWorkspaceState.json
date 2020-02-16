@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Providers",
+    "\\database",
+    "\\database\\migrations"
+  ],
+  "SelectedNode": "\\app\\Providers\\AppServiceProvider.php",
+  "PreviewInSolutionExplorer": false
+}
